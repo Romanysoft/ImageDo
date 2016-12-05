@@ -1,0 +1,61 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Powerful digital processing assistant.",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
+        "BtnBuy": "Buy",
+        "BtnBuyDescription": "Free | Official free upgrade.",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about ImageDo",
+            "list": [
+
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+        
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [
+
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
